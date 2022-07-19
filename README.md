@@ -1,8 +1,8 @@
 ```bash
 npm i
-npm run dev
-# or
 npm run build
+# or
+npm run dev
 ```
 
 ends with 
